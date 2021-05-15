@@ -1,3 +1,3 @@
 # Memory-Card
 
-My applicatoin!
+My application!
